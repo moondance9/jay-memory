@@ -1,0 +1,6 @@
+{"type":"profile","path":"00_PROFILE.md","title":"Jay Profile","sensitivity":"low","confidence":1.0}
+{"type":"project","path":"01_PROJECTS/circle_cmp.md","title":"Circle CMP / Agentic Payment","sensitivity":"medium","confidence":0.8}
+{"type":"project","path":"01_PROJECTS/gxa_reward_ecosystem.md","title":"GXA Reward Ecosystem","sensitivity":"medium","confidence":0.8}
+{"type":"risk","path":"03_RISKS/company_data_security.md","title":"Company Data Security","sensitivity":"high","confidence":1.0}
+{"type":"action","path":"04_ACTIONS/open_actions.md","title":"Open Actions","sensitivity":"medium","confidence":1.0}
+{"type":"prompt","path":"08_PROMPTS/chief_of_staff_style.md","title":"Chief of Staff Answer Style","sensitivity":"low","confidence":1.0}
