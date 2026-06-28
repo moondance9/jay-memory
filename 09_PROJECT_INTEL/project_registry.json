@@ -1,0 +1,29 @@
+[
+  {
+    "project_id": "circle_cmp",
+    "title": "Circle CMP / Agentic Payment",
+    "status": "active",
+    "importance": 10,
+    "owner": "Jay",
+    "tags": ["circle", "cmp", "agentic_payment", "stablecoin", "foreign_visitor", "regulatory"],
+    "path": "09_PROJECT_INTEL/circle_cmp/project.md"
+  },
+  {
+    "project_id": "vasp_strategy",
+    "title": "VASP Strategy",
+    "status": "active",
+    "importance": 9,
+    "owner": "Jay",
+    "tags": ["vasp", "major_shareholder", "isms", "fiu", "regulatory"],
+    "path": "09_PROJECT_INTEL/vasp_strategy/project.md"
+  },
+  {
+    "project_id": "gxa_reward",
+    "title": "GXA Reward Ecosystem",
+    "status": "active",
+    "importance": 8,
+    "owner": "Jay",
+    "tags": ["gxa", "reward", "gmv", "moneytree", "stablecoin"],
+    "path": "09_PROJECT_INTEL/gxa_reward/project.md"
+  }
+]
